@@ -1,0 +1,118 @@
+.banner{
+    border-radius: 10px;
+    width: 90%;
+    padding-top: 17px;
+    background-color: bisque;
+    /* width: 950px;
+     */
+     height: 80px;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLKIwtdgf32E3tyjbl2Mrb9jFzEvFv7nrICYmZF86S6l35Y2MX7nB22gCOMoDkoid5Ig&usqp=CAU"); */
+    margin-left: 80px;;
+    margin-top: 40px;
+    background-repeat: no-repeat;
+    background-size: 40em;
+}
+.div1{
+    margin-top: 35px;
+    text-align: center;
+}
+.image-banner{
+    margin: 0px 0px 0px 370px;
+    width: 600px;    
+}
+.map{
+    margin: 0px 0px 0px 370px;
+    width: 600px;
+    
+}
+.heading{
+    text-align: center;
+}
+.abt{
+    width: 724px;
+    margin: 15px 0px 20px 309px;
+    
+}
+.div2{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+    margin-top: 20px;
+    
+}
+.text{
+    margin: 15px 0px 0px 64px
+}
+.teammates{
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.countries{
+    color: aquamarine;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.user{
+    color: blueviolet;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.div3{
+    text-align: left;
+    margin: 80px 0px 0px 281px;
+}
+.div3-1{
+    width: 800px;
+}
+.div4{
+    padding: 40px;
+    background-color: beige;
+}
+.div4-2{
+    display: flex;
+justify-content: space-evenly;
+}
+.div5{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: left;
+    padding-left: 200px;
+}
+.div5-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div5-1{
+    display: flex;
+}
+.div6{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 0px;
+    margin-bottom: 10px ;
+    
+}
+.people{
+    border: 10px;
+}
+.description{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.link{
+    text-decoration: none;
+    color: #6F4E37
+}
+.coffee{
+    width: 30px;
+}
+.div1-1{
+    display: flex;
+}

@@ -1,0 +1,13 @@
+.collapse{
+    margin-left: 25px;
+}
+.cart{
+    width: 30px;
+    margin-right: 50px;
+}
+.navbar{
+    background-color: rgb(255, 185, 145);
+}
+.navbar-brand{
+    font-family: 'Babylonica', cursive;
+}

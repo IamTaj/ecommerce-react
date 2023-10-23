@@ -1,0 +1,63 @@
+.carousel {
+  padding: 10px;
+  width: 100%;
+}
+.carousel-item{
+  width: 100%;
+}
+.carousel-inner {
+  border-radius: 10px;
+}
+.main-div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+.product {
+  /* border: 1px solid red; */
+  width: 250px;
+  height: 100%;
+  margin: 15px;
+  padding: 40px 20px 0px 40px;
+  box-shadow: 9px 0px 30px 0px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.items {
+  margin-top: 25px;
+  margin-bottom: 42px;
+}
+.link-page{
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+    
+}
+.price{
+   font-weight: 600;
+   font-family: bold;
+}
+.home{
+  display: flex;
+}
+.btn-wardrobe{
+ font-family: 'Babylonica', cursive;
+ 
+}
+.dropdown-sidebar{
+  margin-top: 33px;
+}
+.d-block{
+  width: 100%;
+}
+.viewitem{
+  margin-bottom: 10px;
+}
+.buttons-homepage{
+  padding: 10px;
+}
